@@ -15,6 +15,7 @@
 
         #region Windows Form Designer generated code
 
+
         private void InitializeComponent()
         {
             labelCond_VEV = new Label();
