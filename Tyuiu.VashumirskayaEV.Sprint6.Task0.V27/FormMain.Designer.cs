@@ -90,7 +90,7 @@
             // 
             // buttonHelp_VEV
             // 
-            buttonHelp_VEV.Location = new Point(320, 257);
+            buttonHelp_VEV.Location = new Point(318, 257);
             buttonHelp_VEV.Name = "buttonHelp_VEV";
             buttonHelp_VEV.Size = new Size(80, 30);
             buttonHelp_VEV.TabIndex = 0;
@@ -100,10 +100,7 @@
             // pictureBoxFormula_VEV
             // 
             pictureBoxFormula_VEV.Image = Properties.Resources.formula;
-            pictureBoxFormula_VEV.Location = new
-
-
-            Point(382, 26);
+            pictureBoxFormula_VEV.Location = new Point(382, 26);
             pictureBoxFormula_VEV.Name = "pictureBoxFormula_VEV";
             pictureBoxFormula_VEV.Size = new Size(169, 98);
             pictureBoxFormula_VEV.SizeMode = PictureBoxSizeMode.Zoom;
