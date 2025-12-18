@@ -18,7 +18,7 @@ namespace Tyuiu.VashumirskayaEV.Sprint6.Task5.V2.Lib
                 return num;
             });
 
-            values = Array.FindAll(values, v => v >= 0);
+            values = Array.FindAll(values, v => v < 0);
 
             for (int i = 0; i < values.Length; i++)
                 values[i] = Math.Round(values[i], 3);
@@ -26,4 +26,4 @@ namespace Tyuiu.VashumirskayaEV.Sprint6.Task5.V2.Lib
             return values;
         }
     }
-}
+}       
