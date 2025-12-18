@@ -18,7 +18,7 @@ namespace Tyuiu.VashumirskayaEV.Sprint6.Task6.V26.Lib
                     if (words.Length > 0)
                     {
                         string lastWord = words[words.Length - 1];
-                        result += lastWord + Environment.NewLine;
+                        result += lastWord + " ";
                     }
                 }
             }
