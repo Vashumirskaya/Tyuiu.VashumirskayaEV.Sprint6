@@ -10,6 +10,7 @@ namespace Tyuiu.VashumirskayaEV.Sprint6.Task6.V26
         public FormMain()
         {
             InitializeComponent();
+            textBoxCond_VEV.Text = "Дан файл InPutFileTask7V25.csv в котором хранится матрица целочисленных значений. Загрузить файл через openFileDialog в объект dataGridViewIn. Изменить в седьмом столбце элементы кратные 5 на 2. Результат вывести в объект dataGridViewOut. Сохранить результат в файл OutPutFileTask7.csv через saveFileDialog.";
         }
 
         private void buttonOpenFile_VEV_Click(object sender, EventArgs e)
