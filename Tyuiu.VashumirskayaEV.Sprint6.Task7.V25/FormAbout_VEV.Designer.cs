@@ -20,6 +20,7 @@ namespace Tyuiu.VashumirskayaEV.Sprint6.Task7.V25
 
         #region Windows Form Designer generated code
 
+
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormAbout_VEV));
